@@ -10,4 +10,5 @@ function addtwo(){
 }
 addtwo($int)
 echo $int<br>;
+echo "end programm";
 ?>
