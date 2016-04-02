@@ -1,5 +1,5 @@
 <?php
-echo "Hello World!";
-echo "function error! please close this window";
-echo "sdgjkjg";
+echo "Hello World!;";
+echo "function error! please close this window;";
+echo "sdgjkjg;";
 ?>
